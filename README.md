@@ -4,7 +4,7 @@
 Clone este repositório na pasta `resources/views/errors/` do seu projeto
   ```shell
   $ cd resources/views
-  $ git clone https://github.com/lucascudo/laravel-5.7-pt-BR-errros.git errors
+  $ git clone https://github.com/lucascudo/laravel-5.7-pt-BR-errors.git errors
   ```
    Você pode remover o diretório .git caso deseje incluir e versionar os arquivos deste projeto no seu repositório.
 
