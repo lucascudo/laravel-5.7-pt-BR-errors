@@ -8,4 +8,4 @@
     </div>
 @endsection
 
-@section('message', __('Desculpe, você não possui altorização para acessar esta página.'))
+@section('message', __('Desculpe, você não possui autorização para acessar esta página.'))
